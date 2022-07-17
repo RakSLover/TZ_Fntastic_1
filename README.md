@@ -1,2 +1,3 @@
 # TZ_Fntastic_1
-Test Task 1 for Fnstastic 
+ТЗ для Fntastic, задача 1.
+Выполнено на Python 3.10
